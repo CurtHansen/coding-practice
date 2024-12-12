@@ -1,0 +1,7 @@
+# ninja log v5
+7	1239	1715030717415772793	CMakeFiles/TestJSON.dir/main.cpp.o	b8ba36dd575edef5
+0	3667	1715032671002783756	CMakeFiles/TestJSON.dir/test_reading_file.cpp.o	bb27ec9736447128
+16	2683	1715032670025300346	CMakeFiles/TestJSON.dir/test_construction.cpp.o	f0c855e3c6e7f20
+0	140	1718062835268609116	build.ninja	12dc9937c6542a4a
+1340	1481	1716570822243650563	TestJSON	c1586a260f47ccef
+5	1338	1716570822077213925	CMakeFiles/TestJSON.dir/test_json.cpp.o	3e4269fc589681ad

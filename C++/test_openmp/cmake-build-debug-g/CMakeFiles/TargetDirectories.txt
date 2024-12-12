@@ -1,0 +1,3 @@
+/Users/curthansen/Documents/Coding/CodeExamples/C++/test_openmp/cmake-build-debug-g/CMakeFiles/test_openmp.dir
+/Users/curthansen/Documents/Coding/CodeExamples/C++/test_openmp/cmake-build-debug-g/CMakeFiles/edit_cache.dir
+/Users/curthansen/Documents/Coding/CodeExamples/C++/test_openmp/cmake-build-debug-g/CMakeFiles/rebuild_cache.dir

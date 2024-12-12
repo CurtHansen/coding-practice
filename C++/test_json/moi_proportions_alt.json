@@ -1,0 +1,50 @@
+
+{
+    "AddtnlMOI": 1,
+    "CInit": 100,
+    "CMin": 10,
+    "MaxNodesChosenSoft": 10,
+    "MaxNodesChosenHard": 10,
+    "MaxFloatLevel": 10,
+    "MaxEMIter": 0,
+    "LLEpsilon": 0.0001,
+    "MinSolProp": 0.001,
+    "MaxSolsPerTree": 30,
+    "Tolerance": 0.001,
+    "ReductionFactor": 0.001,
+    "Lambda": 10,
+
+    "C": 1000000,
+    "MinHaplFreq": 0.05,
+    "NumHaps": 10,
+    "NumInst": 1,
+    "NumSubHaps": 1,
+    "TotNumObs": 10000,
+    "PropVersion": 1,
+    "FPMode": 0,
+    "FPConcentration": 100,
+    "AllelePropCutoff": 0.05,
+    "BlankRate": 0,
+    "MOIInformation": {
+	"1": {
+	    "frequemcy": 0.1,
+	    "proportion_profiles": [[1.0]]
+	},	
+        "2": {
+	    "frequency": 0.3,
+	    "proportion_profiles": [[0.01,0.99],[0.02,0.98],[0.05,0.95],[0.1,0.9],[0.4,0.6],[0.5,0.5]]
+	},
+        "3": {
+	    "frequency": 0.3,
+	    "proportion_profiles": [[0.05,0.15,0.80],[0.10,0.30,0.60]]
+	},
+        "5": {
+	    "frequency": 0.2,
+	    "proportion_profiles": [[0.05,0.10,0.15,0.20,0.50]]
+	},
+        "7": {
+	    "frequency": 0.1,
+	    "proportion_profiles": [[0.005,0.005,0.005,0.005,0.005,0.005,0.97],[0.01,0.01,0.01,0.01,0.01,0.01,0.94],[0.02,0.02,0.02,0.02,0.02,0.02,0.88],[0.05,0.05,0.05,0.05,0.05,0.05,0.70]]
+	}
+    }
+}
