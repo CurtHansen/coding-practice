@@ -1,3 +1,0 @@
-/Users/curthansen/Documents/Coding/Sample Code/C++/test_vector/cmake-build-release/CMakeFiles/test_vector.dir
-/Users/curthansen/Documents/Coding/Sample Code/C++/test_vector/cmake-build-release/CMakeFiles/edit_cache.dir
-/Users/curthansen/Documents/Coding/Sample Code/C++/test_vector/cmake-build-release/CMakeFiles/rebuild_cache.dir
