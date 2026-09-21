@@ -1,0 +1,15 @@
+# Build output
+cmake-build-*/
+build/
+
+# JetBrains
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# macOS
+.DS_Store
